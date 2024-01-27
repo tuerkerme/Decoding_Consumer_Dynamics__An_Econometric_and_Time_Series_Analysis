@@ -124,6 +124,7 @@ To further understand the time series data, we can decompose the series to analy
 
 Decomposed Time Series: Trend, Seasonality, and Residuals
 The time series data has been decomposed into three main components:
+
 ![Screenshot 2024-01-27 130429](https://github.com/tuerkerme/Decoding_Consumer_Dynamics__An_Econometric_and_Time_Series_Analysis/assets/149696414/42ec59f7-931c-4be8-9b5b-b4bd0652fc60)
 
 1.	Trend Component:
@@ -199,6 +200,7 @@ The final step in our analysis is to build an econometric model. Given the stabl
  ![Screenshot 2024-01-27 130747](https://github.com/tuerkerme/Decoding_Consumer_Dynamics__An_Econometric_and_Time_Series_Analysis/assets/149696414/940203e5-c413-4a75-ba67-9354b6d09243)
 
 SARIMA Model: Actual vs. Predicted
+
 The SARIMA model has been fitted to the daily transactions data, and its predictions are compared with the actual values.
 
 Model Overview:
